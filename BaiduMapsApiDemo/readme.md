@@ -51,7 +51,7 @@ Demo名称：定位功能
 (1) 可自定义更换位置图标.  
 (2) 支持定位三态效果显示(普通态、跟随态、罗盘态) .  
 (3) 百度地图SDK从2.  0.  0版本起，将定位功能  进行了分离，具体使用方法请见定位SDK.  
-(4) 定位SDK开发指南详见http://developer.  baidu.  com/map/geosdk-android.  htm.  
+(4) 详见[定位SDK开发指南](http://developer.baidu.com/map/geosdk-android.htm).  
 - - -
 六、  
 Demo名称：自定义绘制功能  
