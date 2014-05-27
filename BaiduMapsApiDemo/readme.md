@@ -107,8 +107,8 @@ Demo name：Bus lines search function
 File name：&nbsp; &nbsp; BusLineDemo.java
 
 Brief introduction：Bus lines search function   
-(1) 点击“开始”按钮可查询公交线路.  
-(2) 搜索出公交线路后点击“下一条”按钮可查询该线路的反方向公交线路.  
+(1) Click "open" button to search bus lines.  
+(2) After bus lines search click "The next one" button to search the reverse bus lines.   
 - - -
 XII.    
 Demo name：Offline map function 
@@ -139,8 +139,8 @@ Description：
 (3) 该服务对开发者免费开放.  
 (4) Demo中放入了测试用ak，开发者若使用自己的数据，请更换为自己的ak.  
 (5) LBS.  云检索使用方法请参考开发指南“LBS云服务”部分.  
-(6) 详细了解LBS云，[欢迎访问](http://developer.baidu.com/map/lbs-cloud.htm).  
-(7) 申请ak及管理数据等问题，欢迎访问[LBS开放平台官网](http://lbsyun.baidu.com/).
+(6) Welcome [LBS Cloud](http://developer.baidu.com/map/lbs-cloud.htm).  
+(7) Questions about ak request and data management, welcome [LBS Open Platform](http://lbsyun.baidu.com/).
 - - -
 XV.    
 Demo name：短串分享 function   
