@@ -132,16 +132,15 @@ File name：&nbsp; &nbsp; CloudSearchDemo.java
 
 Brief introduction：Search private data using LBS cloud.    
 Description：  
-(1) LBS.  云是百度地图针对LBS开发者推出的平台级服务.  
-(2) 提供海量位置数据存储、检索、展示一体化解决方案.  
-(3) 该服务对开发者免费开放.  
-(4) Demo中放入了测试用ak，开发者若使用自己的数据，请更换为自己的ak.  
-(5) LBS.  云检索使用方法请参考开发指南“LBS云服务”部分.  
-(6) Welcome [LBS Cloud](http://developer.baidu.com/map/lbs-cloud.htm).  
-(7) Questions about ak request and data management, welcome [LBS Open Platform](http://lbsyun.baidu.com/).
+(1) LBS Cloud is a platform service of Baidu map.    
+(2) Provide massive address data storage, search and displaying.    
+(3) This service is open to developers.  
+(4) The test ak is in this Demo. You can replace the wk with your own ak.  
+(5) Welcome [LBS Cloud](http://developer.baidu.com/map/lbs-cloud.htm).  
+(6) Questions about ak request and data management, welcome [LBS Open Platform](http://lbsyun.baidu.com/).
 - - -
 XV.    
-Demo name：短串分享 function   
+Demo name：Short string share function   
 File name：&nbsp; &nbsp; ShareDemo.java
 
 Brief introduction：将POI点、反Geo点生成短链接以分享给好友  
