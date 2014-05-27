@@ -25,7 +25,7 @@ III.
 Demo name：Map operation function  
 File name：&nbsp; &nbsp; MapControlDemo.java
 
-Brief introduction：Pan and zoom the map with two fingers. Listen map clicking event.
+Brief introduction：Pan and zoom the map with two fingers. Listen map clicking event.  
 Description：  
 (1) Introduce get and set methods of zoom level, rotation degreee and overlooking degree.  
 (2) Listen one-click and press-and-hold event.  
@@ -36,7 +36,7 @@ IV.
 Demo name：UI control  
 File name：&nbsp; &nbsp; UISettingsDemo.java
 
-Brief introduction：Introduce gesture function and display hidden UI tools.
+Brief introduction：Introduce gesture function and display hidden UI tools.  
 Description：  
 (1) map operation switch: pan, zoom, double-click zoom, two-finger operation(rotation and overlooking degrees).  
 (2) Control box display switch: display and hide zoom button.  
@@ -86,7 +86,6 @@ File name：&nbsp; &nbsp; GeoCodeDemo.java
 
 Brief introduction：Transform between address info and address coordinate.  
 Description：  
-
 (1) Forward geocoding: Transform the address information to latitude and longitude coordinates.   
 (2) Reverse geocoding: Transform the latitude and longitude coordinates to address information.
 
@@ -97,10 +96,10 @@ File name：&nbsp; &nbsp; RoutePlanDemo.java, CustomRouteOverlay.java
 
 Brief introduction：Three ways to plan path and custom path planing.  
 Description：  
-(1) 驾车查询新增路径点查询 function   ，具体使用方法详见开发者指南路径规划部分，只需重载接口.  
-(2) 自设路线 function   演示开发者如何自己设定一条路线，包括如何设定起点、终点、途径站点和路段.  
-(3) 自设路线 function   同时也介绍如何在两个Activity之间切换的时候管理Mapview的生命周期.  
-(4) 可自定义路线的起终点图标.  
+(1) Drive path search function，detailed in Dev Guide path planning section(override the interfaces).    
+(2) Customize path function  can display how developers set a path, including how to set start station, end station, route station.  
+(3) Customize path function  can also introduce how to manage Mapview life cycle between Activitys.    
+(4) Customize the start and end info of search lines.  
 - - -
 XI.    
 Demo name：Bus lines search function   
@@ -116,9 +115,8 @@ File name：&nbsp; &nbsp;OfflineDemo.java
 
 Brief introduction：Download and use offline map.  
 Description：  
-(1) 可以搜索、下载、删除、查看离线地图.  
-(2) “扫描离线地图”：
-SDK支持导入离线包，将从官方渠道下载的离线包解压，把其中的vmp文件拷入SD卡根目录的BaiduMapSdk文件夹内.  
+(1) Search, download, delete and lookup offline map.  
+(2) "Scan offline map": SDK supports importing offline packages. Unzip the offline packages, and put the vmp file into /BaiduMaoSdk/ in SD card root directory.  
 - - -
 XIII.    
 Demo name：Navigation function  
