@@ -34,7 +34,7 @@ Demo名称：地图操作功能
 - - -
 四、  
 Demo名称：UI控制功能  
-文件名：  UISettingsDemo.java
+文件名：  &nbsp; &nbsp; UISettingsDemo.java
 
 简介：介绍开关手势功能  和显示隐藏UI控件
 详述：  
@@ -44,7 +44,7 @@ Demo名称：UI控制功能
 - - -
 五、  
 Demo名称：定位功能  
-文件名：  LocationOverlayDemo.java
+文件名：  &nbsp; &nbsp; LocationOverlayDemo.java
 
 简介：介绍定位图层的基本用法  
 详述：  
@@ -55,7 +55,7 @@ Demo名称：定位功能
 - - -
 六、  
 Demo名称：自定义绘制功能  
-文件名：  GeometryDemo.java
+文件名： &nbsp; &nbsp;  GeometryDemo.java
 
 简介：介绍自定义绘制点、线、多边形、圆等几何图形和文字  
 详述：  
@@ -64,7 +64,7 @@ Demo名称：自定义绘制功能
 - - -
 七、  
 Demo名称：覆盖物功能  
-文件名：  OverlayDemo.java
+文件名： &nbsp; &nbsp;  OverlayDemo.java
 
 简介：介绍添加覆盖物并响应点击功能  和弹出pop功能  
 详述：  
@@ -74,7 +74,7 @@ Demo名称：覆盖物功能
 - - -
 八、  
 Demo名称：POI搜索功能  
-文件名：  POISearchDemo.java
+文件名：  &nbsp; &nbsp; POISearchDemo.java
 
 简介：介绍关键词查询、suggestion查询和查看餐饮类Place详情页功能  
 详述：  
@@ -83,7 +83,7 @@ Demo名称：POI搜索功能
 - - -
 九、  
 Demo名称：地理编码功能  
-文件名：  GeoCodeDemo.java
+文件名：  &nbsp; &nbsp; GeoCodeDemo.java
 
 简介：介绍地址信息与坐标之间的相互转换  
 详述：  
@@ -92,7 +92,7 @@ Demo名称：地理编码功能
 - - -
 十、  
 Demo名称：路径规划功能  
-文件名：  RoutePlanDemo.java, CustomRouteOverlay.java
+文件名：  &nbsp; &nbsp; RoutePlanDemo.java, CustomRouteOverlay.java
 
 简介：介绍公交、驾车和步行三种线路规划方法和自设路线方法  
 详述：  
@@ -103,7 +103,7 @@ Demo名称：路径规划功能
 - - -
 十一、  
 Demo名称：公交线路查询功能  
-文件名：  BusLineDemo.java
+文件名： &nbsp; &nbsp;  BusLineDemo.java
 
 简介：介绍查询公交线路功能  
 (1) 点击“开始”按钮可查询公交线路.  
@@ -111,7 +111,7 @@ Demo名称：公交线路查询功能
 - - -
 十二、  
 Demo名称：离线地图功能  
-文件名：  OfflineDemo.java
+文件名： &nbsp; &nbsp;  OfflineDemo.java
 
 简介：介绍如何下载和使用离线地图  
 详述：  
@@ -121,7 +121,7 @@ SDK支持导入离线包，将从官方渠道下载的离线包解压，把其�
 - - -
 十三、  
 Demo名称：导航功能  
-文件名：  NaviDemo.java
+文件名： &nbsp; &nbsp;  NaviDemo.java
 
 简介：介绍如何调起百度地图Android版(V5.  0及以上版本) 导航功能  
 详述：  
@@ -129,7 +129,7 @@ Demo名称：导航功能
 - - -
 十四、  
 Demo名称：LBS.  云检索功能  
-文件名：  CloudSearchDemo.java
+文件名： &nbsp; &nbsp;  CloudSearchDemo.java
 
 简介：介绍如何使用LBS.  云检索用户自有数据
 注意：自v2.  2.  0起，SDK支持LBS云v2版的检索，使用v1版的用户请尽快完成升级或使用较低SDK版本。  
@@ -144,7 +144,7 @@ Demo名称：LBS.  云检索功能
 - - -
 十五、  
 Demo名称：短串分享功能  
-文件名：  ShareDemo.java
+文件名： &nbsp; &nbsp;  ShareDemo.java
 
 简介：将POI点、反Geo点生成短链接以分享给好友  
 详述：  
