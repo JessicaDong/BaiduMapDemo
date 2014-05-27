@@ -67,9 +67,9 @@ File name：&nbsp; &nbsp; OverlayDemo.java
 
 Brief introduction：Introduce how to add overlaying and reponse and pop function.   
 Description：  
-(1) 在popup中添加弹出自定义View的示例.  
-(2) 点击周围4个Marker，弹出popup,可更新marker位置和更新marker图标.  
-(3) 中间显示的为图片图层，该图层可随地图的移动、缩放等做出相应的操作.  
+(1) Add customized View examples in popup.   
+(2) Click the four surrounded Marker, pop popup, update marker address and marker icon.    
+(3) The middle is picture layer which can do corresponding operations with the zoom, pan of map.    
 - - -
 VIII.  
 Demo name：POI search function   
@@ -123,8 +123,6 @@ Demo name：Navigation function
 File name：&nbsp; &nbsp; NaviDemo.java
 
 Brief introduction：Introduce how to invoke Baidu map navigation function.   
-Description：  
-(1) 若手机未安装符合要求的百度地图客户端，会首先提示下载.  
 - - -
 XIV.    
 Demo name：LBS cloud search function  
@@ -143,10 +141,10 @@ XV.
 Demo name：Short string share function   
 File name：&nbsp; &nbsp; ShareDemo.java
 
-Brief introduction：将POI点、反Geo点生成短链接以分享给好友  
+Brief introduction：Share with your friends in short URL generated from POI point or anti-Geo point.    
 Description：  
-(1) 将POI点、反Geo点，生成短链接串，此链接可通过短信等形式分享给好友.  
-(2) 好友在终端设备点击此链接可快速打开Web地图、百度地图客户端进行信息展示.  
-(3) 暂时开放了“POI搜索结果分享”和“反向地理编码结果分享”.  
-(4) 日后会开放更多的 function   ，欢迎广大开发者使用短串分享function.  
+(1) Generate short URL string from POI point or anti-Geo point. One can share this string with his or her friends in SMS.    
+(2) Friends can open Web map quickly by clicking this URL in their terminal devices, can display the Info.    
+(3) Open the function "POI search results share" and "Reverse Geo encoding results share".    
+(4) More function will be open later on. Welcome more people use this function.    
 - - -
