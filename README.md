@@ -83,8 +83,8 @@ IX.
 Demo name：Geographic encoding function
 File name：    GeoCodeDemo.java
 
-Brief introduction：Transform between address info and address coordinate.
-Description：
+Brief introduction：Transform between address info and address coordinate.   
+Description：  
 (1) Forward geocoding: Transform the address information to latitude and longitude coordinates.   
 (2) Reverse geocoding: Transform the latitude and longitude coordinates to address information.   
 
@@ -103,7 +103,7 @@ XI.
 Demo name：Bus lines search function
 File name：    BusLineDemo.java
 
-Brief introduction：Bus lines search function
+Brief introduction：Bus lines search function   
 (1) Click "open" button to search bus lines.   
 (2) After bus lines search click "The next one" button to search the reverse bus lines.    
 
@@ -119,14 +119,14 @@ XIII.
 Demo name：Navigation function
 File name：    NaviDemo.java
 
-Brief introduction：Introduce how to invoke Baidu map navigation function.  
+Brief introduction：Introduce how to invoke Baidu map navigation function.     
 
 XIV.  
 Demo name：LBS cloud search function  
 File name：    CloudSearchDemo.java  
 
-Brief introduction：Search private data using LBS cloud.  
-Description：  
+Brief introduction：Search private data using LBS cloud.     
+Description：        
 (1) LBS Cloud is a platform service of Baidu map.  
 (2) Provide massive address data storage, search and displaying.  
 (3) This service is open to developers.  
@@ -138,8 +138,8 @@ XV.
 Demo name：Short string share function  
 File name：    ShareDemo.java  
 
-Brief introduction：Share with your friends in short URL generated from POI point or anti-Geo point.  
-Description：  
+Brief introduction：Share with your friends in short URL generated from POI point or anti-Geo point.        
+Description：         
 (1) Generate short URL string from POI point or anti-Geo point. One can share this string with his or her friends in SMS.
 (2) Friends can open Web map quickly by clicking this URL in their terminal devices, can display the Info.   
 (3) Open the function "POI search results share" and "Reverse Geo encoding results share".   
