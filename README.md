@@ -1,7 +1,6 @@
 BaiduMapDemo
 ============
 this demo use Baidu Map API to realize these functions.    
-Create a map and manage the life cycle of the map.  
 
 1. Display normal map, satellite map and traffic map.    
 2. Pan and zoom the map with two fingers. Listen map clicking event.    
