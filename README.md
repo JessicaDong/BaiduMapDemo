@@ -53,29 +53,29 @@ Description：
     
 VI.  
 Demo name：Custom drawing function  
-File name：    GeometryDemo.java  
+File name：    GeometryDemo.java    
 
-Brief introduction：Custom drawing point, line, polygons, circles and other geometric shapes and texts.
-Description：
+Brief introduction：Custom drawing point, line, polygons, circles and other geometric shapes and texts.  
+Description：  
 (1) Support drawing polygons.   
 (2) Support drawing texts.   
 
 VII.
-Demo name：Overlaying function
-File name：    OverlayDemo.java
+Demo name：Overlaying function  
+File name：    OverlayDemo.java  
 
-Brief introduction：Introduce how to add overlaying and reponse and pop function.
-Description：
+Brief introduction：Introduce how to add overlaying and reponse and pop function.   
+Description：   
 (1) Add customized View examples in popup.   
 (2) Click the four surrounded Marker, pop popup, update marker address and marker icon.   
 (3) The middle is picture layer which can do corresponding operations with the zoom, pan of map.   
 
-VIII.
-Demo name：POI search function
-File name：    POISearchDemo.java
+VIII.   
+Demo name：POI search function   
+File name：    POISearchDemo.java    
 
-Brief introduction：Keyword search, suggestion search function
-Description：
+Brief introduction：Keyword search, suggestion search function     
+Description：   
 (1) Click the keyword search result and jump to Place Information pages.   
 (2) Provide suggestion search to do asscociation search.   
 
