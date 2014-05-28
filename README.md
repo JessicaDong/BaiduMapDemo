@@ -92,9 +92,9 @@ X.
 Demo name：Path planing function
 File name：    RoutePlanDemo.java, CustomRouteOverlay.java
 
-Brief introduction：Three ways to plan path and custom path planing.
-Description：
-(1) Drive path search function，detailed in Dev Guide path planning section(override the interfaces).    
+Brief introduction：Three ways to plan path and custom path planing.     
+Description：      
+(1) Drive path search function，detailed in Dev Guide path planning section(override the interfaces).            
 (2) Customize path function can display how developers set a path, including how to set start station, end station, route station.   
 (3) Customize path function can also introduce how to manage Mapview life cycle between Activitys.   
 (4) Customize the start and end info of search lines.   
@@ -110,9 +110,9 @@ Brief introduction：Bus lines search function
 XII.
 Demo name：Offline map function File name：   OfflineDemo.java
 
-Brief introduction：Download and use offline map.
-Description：
-(1) Search, download, delete and lookup offline map.  
+Brief introduction：Download and use offline map.      
+Description：      
+(1) Search, download, delete and lookup offline map.                            
 (2) "Scan offline map": SDK supports importing offline packages. Unzip the offline packages, and put the vmp file into /BaiduMaoSdk/ in SD card root directory.  
 
 XIII.
@@ -140,7 +140,7 @@ File name：    ShareDemo.java
 
 Brief introduction：Share with your friends in short URL generated from POI point or anti-Geo point.        
 Description：         
-(1) Generate short URL string from POI point or anti-Geo point. One can share this string with his or her friends in SMS.
+(1) Generate short URL string from POI point or anti-Geo point. One can share this string with his or her friends in SMS.  
 (2) Friends can open Web map quickly by clicking this URL in their terminal devices, can display the Info.   
 (3) Open the function "POI search results share" and "Reverse Geo encoding results share".   
 (4) More function will be open later on. Welcome more people use this function.  
